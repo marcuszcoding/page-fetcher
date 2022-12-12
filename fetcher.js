@@ -14,6 +14,7 @@ request('https://www.google.com/fdsafsafsa.html', (error, response, body) => {
   a.) URL vairable which comes first 
   b.) local file path variable which comes second
 2.) We need to make a request at some point so lets copy our request from the previosu exercise 
-
-
+ a.) going to npm init and npm install request!
+3.) After our response we need to a new file to save our information from our request in
+ a.) how do we put things into a local file? lets find out
 */
